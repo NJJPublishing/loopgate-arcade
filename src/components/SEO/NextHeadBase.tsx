@@ -2,7 +2,7 @@ import Head from "next/head";
 
 const NextHeadBase = () => {
   const baseUrl = "https://loopgate.netlify.app/";
-  const ogImgUrl = `${baseUrl}/images/splash.png`;
+  const ogImgUrl = `${baseUrl}/images/splash3.png`;
   const title = "APES TOGETHER STRONG | A Mulligan Brothers Documentary";
   const description =
     "Securely and easily access exclusive digital content from the Mulligan Brothers using Loopring NFTs. Powered by LoopGate.";
