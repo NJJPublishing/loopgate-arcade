@@ -21,7 +21,6 @@ const Footer = () => {
         </FooterLink>
         <FooterLink href={twitterLink}>
           <p className="hidden md:inline-block"> Follow Us On Twitter</p>
-          <TwitterIcon className="w-5 h-5" />
         </FooterLink>
       </div>
     </div>
