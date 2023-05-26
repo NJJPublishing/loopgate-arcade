@@ -1,4 +1,4 @@
-import FooterLink from "./FooterLink";
+import FooterLink from "../FooterLink";
 import { TwitterIcon, GithubIcon } from "../Icons/Icons";
 import { getCurrentYear } from "../../utils/generic";
 
