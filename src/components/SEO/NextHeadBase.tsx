@@ -1,7 +1,7 @@
 import Head from "next/head";
 
 const NextHeadBase = () => {
-  const baseUrl = "https://loopgate.netlify.app/";
+  const baseUrl = "https://ornate-strudel-91a8b7.netlify.app";
   const ogImgUrl = `${baseUrl}/images/splash.jpg`;
   const title = "APES TOGETHER STRONG | A Mulligan Brothers Documentary";
   const description =
