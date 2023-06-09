@@ -32,6 +32,18 @@ const unlockables: Unlockable[] = [
       "0xbdce4c9a5a90d253920dacb1630be43a4cc22939023f0d2476e4ead6996aef79",
     ], // Deleted Scene with u/Buttfarm69 Video
   },
+  {
+    cid: "bafybeiafbmqzo4x23nqnnftaism55wv2lbxt7fomvvoi6bqkvfk2ocyziq", // VIP Placeholder 01
+    nftId: [
+      "0xbdce4c9a5a90d253920dacb1630be43a4cc22939023f0d2476e4ead6996aef79",
+    ], // VIP Placeholder 01
+  },
+  {
+    cid: "bafybeidgdmcs2vw6slybyily3wapurim6pjr4g6s2rfet5jj2mmnldntsm", // VIP Placeholder 02
+    nftId: [
+      "0xbdce4c9a5a90d253920dacb1630be43a4cc22939023f0d2476e4ead6996aef79",
+    ], // VIP Placeholder 02
+  },
 ];
 
 export { unlockables };
