@@ -27,7 +27,7 @@ const unlockables: Unlockable[] = [
     ], // ATS Video
   },
   {
-    cid: "bafybeieool5v4sxier6slnowz6fikhvnnlhjlpkwbpevbodrjgpvtfffde", // Deleted Scene with u/Buttfarm69 Video
+    cid: "bafybeibbfa7zxtjxy56kw345n3r6wpdwrln3dn7po623lwcmzf7l576twa", // Deleted Scene with u/Buttfarm69 Video
     nftId: [
       "0xbdce4c9a5a90d253920dacb1630be43a4cc22939023f0d2476e4ead6996aef79",
     ], // Deleted Scene with u/Buttfarm69 Video
