@@ -26,6 +26,12 @@ const unlockables: Unlockable[] = [
       "0xbdce4c9a5a90d253920dacb1630be43a4cc22939023f0d2476e4ead6996aef79",
     ], // ATS Video
   },
+  {
+    cid: "bafybeihomzfbowdkrh6x7rhvsxddpg45nhhd27gs4mpzzd2j4nrkskd4xa", // Deleted Scene with u/Buttfarm69 Video
+    nftId: [
+      "0xbdce4c9a5a90d253920dacb1630be43a4cc22939023f0d2476e4ead6996aef79",
+    ], // Deleted Scene with u/Buttfarm69 Video
+  },
 ];
 
 export { unlockables };
