@@ -44,6 +44,31 @@ const unlockables: Unlockable[] = [
       "0xbdce4c9a5a90d253920dacb1630be43a4cc22939023f0d2476e4ead6996aef79",
     ], // VIP Placeholder 02
   },
+  // Finley Test
+    {
+    cid: "bafybeif42jlthaiy7m7frxp6rsyfeqvxlmr2cpio4oiqfsjthurc6cxloa", // ATS Video
+    nftId: [
+      "0x9f7B6f65FF002E9159eA001ef197e9C51d6302ae",
+    ], // ATS Video
+  },
+  {
+    cid: "bafybeibbfa7zxtjxy56kw345n3r6wpdwrln3dn7po623lwcmzf7l576twa", // Deleted Scene with u/Buttfarm69 Video
+    nftId: [
+      "0x9f7B6f65FF002E9159eA001ef197e9C51d6302ae",
+    ], // Deleted Scene with u/Buttfarm69 Video
+  },
+  {
+    cid: "bafybeiafbmqzo4x23nqnnftaism55wv2lbxt7fomvvoi6bqkvfk2ocyziq", // VIP Placeholder 01
+    nftId: [
+      "0x9f7B6f65FF002E9159eA001ef197e9C51d6302ae",
+    ], // VIP Placeholder 01
+  },
+  {
+    cid: "bafybeidgdmcs2vw6slybyily3wapurim6pjr4g6s2rfet5jj2mmnldntsm", // VIP Placeholder 02
+    nftId: [
+      "0x9f7B6f65FF002E9159eA001ef197e9C51d6302ae",
+    ], // VIP Placeholder 02
+  },
 ];
 
 export { unlockables };
