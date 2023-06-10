@@ -33,10 +33,10 @@ const unlockables: Unlockable[] = [
     ], // Deleted Scene with u/Buttfarm69 Video
   },
   {
-    cid: "bafkreiapvtyjmgx2dd5wuxq5yf5bsw4aswicezgckvbulyipie5t4eqmbi", // ATS Video Game (Private Full Version)
+    cid: "QmWvY7LbjTxtZKmvCPZJwQNxygVPKdqK8ZHcSu7zhUqkQR", // ATS Video Game (Public Full Version)
     nftId: [
       "0xbdce4c9a5a90d253920dacb1630be43a4cc22939023f0d2476e4ead6996aef79",
-    ], // ATS Video Game (Private Full Version)
+    ], // ATS Video Game (Public Full Version)
   },
   {
     cid: "bafybeiafbmqzo4x23nqnnftaism55wv2lbxt7fomvvoi6bqkvfk2ocyziq", // VIP Placeholder 01
