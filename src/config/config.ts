@@ -39,13 +39,13 @@ const unlockables: Unlockable[] = [
     ], // ATS Video Game (iFrame NJJ Full Version)
   },
   {
-    cid: "bafybeiafbmqzo4x23nqnnftaism55wv2lbxt7fomvvoi6bqkvfk2ocyziq", // VIP Placeholder 01
+    cid: "bafybeifxxpoeoxzv4dx5jdsjc6l6f3n2qd4ibpeiwlwj4tjcngcbat7heu", // VIP Placeholder 01
     nftId: [
       "0xbdce4c9a5a90d253920dacb1630be43a4cc22939023f0d2476e4ead6996aef79",
     ], // VIP Placeholder 01
   },
   {
-    cid: "bafybeidgdmcs2vw6slybyily3wapurim6pjr4g6s2rfet5jj2mmnldntsm", // VIP Placeholder 02
+    cid: "bafybeic2g73iaqlqjsgtmadlsiyqah23qnjsjlevs4byxyqo7zkhvj4duq", // VIP Placeholder 02
     nftId: [
       "0xbdce4c9a5a90d253920dacb1630be43a4cc22939023f0d2476e4ead6996aef79",
     ], // VIP Placeholder 02
